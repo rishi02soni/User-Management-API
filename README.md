@@ -1,7 +1,6 @@
 # 🚀 User Management API (.NET 8)
 
 A production-ready **User Management REST API** built using **.NET 8 Web API** following **Clean Architecture principles**.
-
 ---
 
 ## 📌 Overview
